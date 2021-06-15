@@ -1,2 +1,1 @@
-# sample-repo
-練習用
+# Gitチュートリアル
