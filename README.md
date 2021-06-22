@@ -1,8 +1,4 @@
 # Gitチュートリアル     
-- feature-A
-- fix-B
-- feature-CCC
-- feature-D
-- feature-DDD
-- faeture-EEE       
-- feature-ZZZ
+- git reset トレーニング
+- git addした
+- 作業ディレクトリ222
