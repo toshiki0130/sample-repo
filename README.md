@@ -6,3 +6,4 @@
 - feature/develop作成
 - feature/develop作成 第二のコミット
 - feature-C
+- feature-CC typ miss
